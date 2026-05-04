@@ -1,4 +1,4 @@
-/* אייזיקיס · Isaacs Catering — interactions */
+/* אייזיקס · Isaacs Catering — interactions */
 (() => {
   'use strict';
 
@@ -148,7 +148,7 @@
       }
 
       const text = [
-        `*בקשת הצעת מחיר — אייזיקיס קייטרינג*`,
+        `*בקשת הצעת מחיר — אייזיקס קייטרינג*`,
         ``,
         `שם: ${name}`,
         `טלפון: ${phone}`,

@@ -1,6 +1,6 @@
-# אייזיקיס קייטרינג · Isaacs Catering Ashdod
+# אייזיקס קייטרינג · Isaacs Catering Ashdod
 
-Mobile-first, Hebrew RTL marketing site for אייזיקיס קייטרינג (Ashdod, Israel).
+Mobile-first, Hebrew RTL marketing site for אייזיקס קייטרינג (Ashdod, Israel).
 
 ## Stack
 Static HTML, CSS, vanilla JS — no build step. Open `index.html` to preview.
