@@ -1,0 +1,12 @@
+{
+  "name": "אייזיקיס קייטרינג אשדוד",
+  "short_name": "אייזיקיס",
+  "description": "קייטרינג בוטיק לאירועים — אשדוד והדרום",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf9ee",
+  "theme_color": "#1f2a1a",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": []
+}
